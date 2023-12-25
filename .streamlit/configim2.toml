@@ -1,0 +1,5 @@
+[image_design]
+border_width = 2
+border_color = "#669eba"
+border_radius = 10
+box_shadow = "0px 0px 5px 0px #888888"

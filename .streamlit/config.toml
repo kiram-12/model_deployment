@@ -1,0 +1,28 @@
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#7792E3'
+
+# Background color for the main content area
+backgroundColor = 'beige'
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = 'white'
+
+# Color used for almost all text
+textColor = 'black'
+
+# Font family for all text in the app, except code blocks
+# Accepted values (serif | sans serif | monospace) 
+# Default: "sans serif"
+font = "sans serif"
+# config.toml
+
+
+# config.toml
+[images]
+ [image_design]
+ border_width = 2
+ border_color = "#669eba"
+ border_radius = 10
+ box_shadow = "0px 0px 5px 0px #888888"
