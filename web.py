@@ -6,7 +6,6 @@ from PIL import Image
 import json
 
 
-
 st.set_page_config(page_title="My Webpage",page_icon=":purple_heart:",layout="wide", initial_sidebar_state="collapsed" )
 #wide to display more content horizontally
 st.subheader(" WELCOME TO OUR FIRST PROJECT ")
